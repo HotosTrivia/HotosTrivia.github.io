@@ -11,7 +11,7 @@ The event will take place on __Wednesday, 2nd June from 2-3.30pm EDT__! Please j
 
 ## Registration
 
-To participate to the Systems Trivia Night, please register through this registration form (link). You can either register a full team or just yourself.
+To participate to the Systems Trivia Night, please register through this [registration form](https://forms.gle/Dg6phBDkAT4yRwkA8). You can either register a full team, a partial team, or just yourself.
 
 ### Team Structure
 
