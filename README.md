@@ -4,7 +4,7 @@ Welcome, trivia enthusiasts! We will be hosting a trivia event as a panel at thi
 
 ## Event Details
 
-The event will be held entirely virtually and will be streamed on Youtube. Link to the youtube stream will be released closer to the conference!
+The event will be held entirely virtually and will be streamed on [Twitch](https://www.twitch.tv/vaastav05).
 All participants must join the Trivia zoom meeting where they will be placed in separate breakout rooms along with their team members.
 
 The event will take place on __Wednesday, 2nd June from 2-3.30pm EDT__! Please join the zoom meeting by __1.50pm EDT__ so that we can begin the event in a timely manner.
