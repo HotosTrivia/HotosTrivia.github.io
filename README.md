@@ -16,7 +16,7 @@ Please join the zoom meeting 10 minutes before the event, so that we can begin t
 
 ## Registration
 
-To participate to the Systems Trivia Night, please register through this [registration form](https://forms.gle/Dg6phBDkAT4yRwkA8). You can either register a full team, a partial team, or just yourself.
+To participate in Systems Trivia Night, please register through this [registration form](https://forms.gle/Dg6phBDkAT4yRwkA8). You can either register a full team, a partial team, or just yourself.
 
 ### Team Structure
 
@@ -32,13 +32,7 @@ Each round will consist of 5 questions with each question repeated twice. Answer
 
 ### Submitting Responses
 
-All teams must submit their answers to each round through their respective response submission forms. Links coming soon.
-
-+ Round 0: 
-+ Round 1:
-+ Round 2:
-+ Round 3:
-+ Round 4:
+All teams must submit their answers to each round through their respective response submission forms. 
 
 ## Prize
 
