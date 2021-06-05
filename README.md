@@ -1,13 +1,18 @@
-# HotOS 2021 Trivia
+# Systems Trivia
 
-Welcome, trivia enthusiasts! We will be hosting a trivia event as a panel at this year's [HotOS](https://sigops.org/s/conferences/hotos/2021/)!
+Welcome, trivia enthusiasts!
+We have hosted the first Systems Trivia event at this year's [HotOS](https://sigops.org/s/conferences/hotos/2021/)!
+It was tons of fun, and we are very happy about the super positive feedback we got from the community.
+We hope this was just the beginning of a series of fortunate Trivia events... Stay tuned!
+
+There are no upcoming, scheduled Trivia events. 
+However, below we leave some general guidelines about our current organization. 
 
 ## Event Details
 
-The event will be held entirely virtually and will be streamed on [Twitch](https://www.twitch.tv/vaastav05).
+The events are held entirely virtually and will be streamed on [Twitch](https://www.twitch.tv/vaastav05).
 All participants must join the Trivia zoom meeting where they will be placed in separate breakout rooms along with their team members.
-
-The event will take place on __Wednesday, 2nd June from 2-3.30pm EDT__! Please join the zoom meeting by __1.50pm EDT__ so that we can begin the event in a timely manner.
+Please join the zoom meeting 10 minutes before the event, so that we can begin the quiz in a timely manner.
 
 ## Registration
 
@@ -37,7 +42,8 @@ All teams must submit their answers to each round through their respective respo
 
 ## Prize
 
-Stay tuned for more details about the prize!
+The prize is... A BITCOIN! 
+But we don’t trust these fancy schmancy cryptocurrencies, so the winners will not be receiving the cryptocurrency BitCoin, but an actual physical coin with the BitCoin logo on it.
 
 ## Your Hosts
 
