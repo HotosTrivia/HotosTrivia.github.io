@@ -39,7 +39,7 @@ in teams that have not completed their full quota of 5 people.
 
 The quiz will be divided into 5 rounds - 1 practice round and 4 actual rounds. Note that the practice round will not count towards the final score.
 
-Each round will consist of 5 questions with each question repeated twice. Answers to each question will be revealed at the end of each round!
+Each round will consist of 5-10 questions with each question repeated twice. Answers to each question will be revealed at the end of each round!
 
 ### Submitting Responses
 
