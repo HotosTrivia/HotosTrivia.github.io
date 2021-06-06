@@ -8,6 +8,17 @@ We hope this was just the beginning of a series of fortunate Trivia events... St
 There are no upcoming, scheduled Trivia events. 
 However, below we leave some general guidelines about our current organization. 
 
+## Content Contributions
+
+Systems Trivia rely upon anecdotes, paper descriptions, and other contributions by members of the systems community.
+If you have some anecdotes you'd like to share or you simply contribute to the content of the event,
+then please consider filling out and submitting this [form](https://forms.gle/GnKmemD7h3Y9wefFA)
+
+### Feedback
+
+If you have any feedback that you would like to share regarding our HotOS event, then please consider submitting
+this [feedback form](https://forms.gle/ViNmjNCr7F6kEJM86). We look forward to your feedback to improve the event in the future!
+
 ## Event Details
 
 The events are held entirely virtually and will be streamed on [Twitch](https://www.twitch.tv/vaastav05).
@@ -38,6 +49,15 @@ All teams must submit their answers to each round through their respective respo
 
 The prize is... A BITCOIN! 
 But we don’t trust these fancy schmancy cryptocurrencies, so the winners will not be receiving the cryptocurrency BitCoin, but an actual physical coin with the BitCoin logo on it.
+
+## Hall of Fame
+
+Here are the list of winners and runner-ups from past events:
+
++ HotOS'21
+  + 1st Place: UBC Systopia
+  + (Joint) 2nd Place: Stranger Things III
+  + (Joint) 2nd Place: Fun Strangers 4
 
 ## Your Hosts
 
