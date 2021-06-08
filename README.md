@@ -1,11 +1,11 @@
 # Systems Trivia
 
 Welcome, trivia enthusiasts!
-We have hosted the first Systems Trivia event at this year's [HotOS](https://sigops.org/s/conferences/hotos/2021/)!
+We hosted the first Systems Trivia event at this year's [HotOS](https://sigops.org/s/conferences/hotos/2021/)!
 It was tons of fun, and we are very happy about the super positive feedback we got from the community.
 We hope this was just the beginning of a series of fortunate Trivia events... Stay tuned!
 
-There are no upcoming, scheduled Trivia events. 
+Currently, there are no upcoming, scheduled Trivia events. 
 However, below we leave some general guidelines about our current organization. 
 
 ## Content Contributions
