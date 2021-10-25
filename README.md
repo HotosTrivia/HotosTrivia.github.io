@@ -1,12 +1,12 @@
 # Systems Trivia
 
 Welcome, trivia enthusiasts!
-We hosted the first Systems Trivia event at this year's [HotOS](https://sigops.org/s/conferences/hotos/2021/)!
+We hosted the first Systems Trivia event [HotOS 2021](https://sigops.org/s/conferences/hotos/2021/)!
 It was tons of fun, and we are very happy about the super positive feedback we got from the community.
-We hope this was just the beginning of a series of fortunate Trivia events... Stay tuned!
 
-Currently, there are no upcoming, scheduled Trivia events. 
-However, below we leave some general guidelines about our current organization. 
+Our next event will be at [SOSP 2021](sosp2021.mpi-sws.org/)! Please refer to the #trivia channel
+on the SOSP slack server!
+Below we leave some general guidelines about our current organization. 
 
 ## Content Contributions
 
@@ -27,7 +27,7 @@ Please join the zoom meeting 10 minutes before the event, so that we can begin t
 
 ## Registration
 
-To participate in Systems Trivia Night, please register through this [registration form](https://forms.gle/Dg6phBDkAT4yRwkA8). You can either register a full team, a partial team, or just yourself.
+To participate in Systems Trivia Night, please register through this [registration form](https://forms.gle/yNyEY3ai5wrMh8dZ8). You can either register a full team, a partial team, or just yourself.
 
 ### Team Structure
 
