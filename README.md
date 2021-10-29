@@ -75,4 +75,9 @@ Here are the list of winners and runner-ups from past events:
 + [Vaastav Anand, MPI-SWS](http://vaastavanand.com/), NA/EU mirror
 + [Roberta De Viti, MPI-SWS](https://people.mpi-sws.org/~rdeviti), NA/EU mirror
 + [Jonathan Mace, MPI-SWS](https://people.mpi-sws.org/~jcmace), NA/EU mirror
-+ [Zhiqiang Xie, MPI-SWS](), NA/EU mirror
++ [Zhiqiang Xie, MPI-SWS](https://www.linkedin.com/in/xiezhq/), NA/EU mirror
++ [Heming Cui, HKU](https://i.cs.hku.hk/~heming/), Asia/Australia mirror
++ [Xiuxian Gan, HKU](https://guanxiux.github.io/selfie/), Asia/Australia mirror
++ [Shengliang Deng, HKU](https://shengliangd.github.io/), Asia/Australia mirror
++ [Tianyang Duan, HKU](), Asia/Australia mirror
++ [Zongyuan Zhang, HKU](), Asia/Australia mirror
