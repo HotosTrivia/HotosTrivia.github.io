@@ -4,8 +4,7 @@ Welcome, trivia enthusiasts!
 We hosted the first Systems Trivia event [HotOS 2021](https://sigops.org/s/conferences/hotos/2021/)!
 It was tons of fun, and we are very happy about the super positive feedback we got from the community.
 
-Our next event will be at [SOSP 2021](sosp2021.mpi-sws.org/)! Please refer to the #trivia channel
-on the SOSP slack server!
+Our last event was at [SOSP 2021](sosp2021.mpi-sws.org/)!
 Below we leave some general guidelines about our current organization. 
 
 ## Content Contributions
@@ -58,9 +57,22 @@ Here are the list of winners and runner-ups from past events:
   + 1st Place: UBC Systopia
   + (Joint) 2nd Place: Stranger Things III
   + (Joint) 2nd Place: Fun Strangers 4
++ SOSP'21
+  + 1st Place: Team Demikernel
+  + 2nd Place: strangers-bft
+  + 3rd Place: UniCorn   
 
-## Your Hosts
+## Your Hosts/Organizers
+
+### HotOS 2021
 
 + [Vaastav Anand, MPI-SWS](http://vaastavanand.com/)
 + [Roberta De Viti, MPI-SWS](https://people.mpi-sws.org/~rdeviti)
 + [Jonathan Mace, MPI-SWS](https://people.mpi-sws.org/~jcmace)
+
+### SOSP 2021
+
++ [Vaastav Anand, MPI-SWS](http://vaastavanand.com/), NA/EU mirror
++ [Roberta De Viti, MPI-SWS](https://people.mpi-sws.org/~rdeviti), NA/EU mirror
++ [Jonathan Mace, MPI-SWS](https://people.mpi-sws.org/~jcmace), NA/EU mirror
++ [Zhiqiang Xie, MPI-SWS](), NA/EU mirror
