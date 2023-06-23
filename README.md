@@ -4,7 +4,7 @@ Welcome, trivia enthusiasts!
 We hosted the first Systems Trivia event [HotOS 2021](https://sigops.org/s/conferences/hotos/2021/)!
 It was tons of fun, and we are very happy about the super positive feedback we got from the community.
 
-Our last event was at [SOSP 2021](sosp2021.mpi-sws.org/)!
+Our last event was at [HotOS 2023](https://sigops.org/s/conferences/hotos/2023/)!
 Below we leave some general guidelines about our current organization. 
 
 ## Content Contributions
@@ -20,15 +20,21 @@ this [feedback form](https://forms.gle/ViNmjNCr7F6kEJM86). We look forward to yo
 
 ## Event Details
 
-The events are held entirely virtually and will be streamed on [Twitch](https://www.twitch.tv/vaastav05).
-All participants must join the Trivia zoom meeting where they will be placed in separate breakout rooms along with their team members.
+### Physical Events
+
+Since the return of in-person conferences, all our events will be held in-person.
+
+### Virtual Events
+
+Our first two events were held entirely virtually and will be streamed on [Twitch](https://www.twitch.tv/vaastav05).
+All participants joined the Trivia zoom meeting where they were placed in separate breakout rooms along with their team members.
 Please join the zoom meeting 10 minutes before the event, so that we can begin the quiz in a timely manner.
 
-## Registration
+### Registration
 
 To participate in Systems Trivia Night, please register through this [registration form](https://forms.gle/yNyEY3ai5wrMh8dZ8). You can either register a full team, a partial team, or just yourself.
 
-### Team Structure
+## Team Structure
 
 Teams are max 5 people. You can register as a team or an individual. If you don’t have a team, no worries, we’ll take care of assigning you one.
 Teams that are being registered only need to register a minimum of 2 people. Individuals that do not register as part of teams will be placed
@@ -53,22 +59,25 @@ But we don’t trust these fancy schmancy cryptocurrencies, so the winners will 
 
 Here are the list of winners and runner-ups from past events:
 
-+ HotOS'21
-  + 1st Place: UBC Systopia
-  + (Joint) 2nd Place: Stranger Things III
-  + (Joint) 2nd Place: Fun Strangers 4
++ HotOS'23
+  + 1st Place: 5 Colors of the Rainbow
+  + (Joint) 2nd Place: D\*n\*
+  + (Joint) 2nd Place: The team with no name 
 + SOSP'21
   + 1st Place: Team Demikernel
   + 2nd Place: strangers-bft
   + 3rd Place: UniCorn   
++ HotOS'21
+  + 1st Place: UBC Systopia
+  + (Joint) 2nd Place: Stranger Things III
+  + (Joint) 2nd Place: Fun Strangers 4
 
 ## Your Hosts/Organizers
 
-### HotOS 2021
+### HotOS 2023
 
 + [Vaastav Anand, MPI-SWS](http://vaastavanand.com/)
 + [Roberta De Viti, MPI-SWS](https://people.mpi-sws.org/~rdeviti)
-+ [Jonathan Mace, MPI-SWS](https://people.mpi-sws.org/~jcmace)
 
 ### SOSP 2021
 
@@ -81,3 +90,9 @@ Here are the list of winners and runner-ups from past events:
 + [Shengliang Deng, HKU](https://shengliangd.github.io/), Asia/Australia mirror
 + [Tianyang Duan, HKU](), Asia/Australia mirror
 + [Zongyuan Zhang, HKU](), Asia/Australia mirror
+
+### HotOS 2021
+
++ [Vaastav Anand, MPI-SWS](http://vaastavanand.com/)
++ [Roberta De Viti, MPI-SWS](https://people.mpi-sws.org/~rdeviti)
++ [Jonathan Mace, MPI-SWS](https://people.mpi-sws.org/~jcmace)
